@@ -18,23 +18,6 @@
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-X86_어셈블리_x86_아키텍처 rootpage-X86_어셈블리 skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
-<div id="mw-head-base" class="noprint"></div>
-<div id="content" class="mw-body" role="main">
-	<a id="top"></a>
-	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
-	<div class="mw-indicators mw-body-content">
-	</div>
-	<h1 id="firstHeading" class="firstHeading" >x86 어셈블리/x86 아키텍처</h1>
-	<div id="bodyContent" class="mw-body-content">
-		<div id="siteSub" class="noprint">위키책, 위키책</div>
-		<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/X86_%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC" title="X86 어셈블리">X86 어셈블리</a></span></div>
-		<div id="contentSub2"></div>
-		
-		<div id="jump-to-nav"></div>
-		<a class="mw-jump-link" href="#mw-head">둘러보기로 가기</a>
-		<a class="mw-jump-link" href="#searchInput">검색하러 가기</a>
-		<div id="mw-content-text" lang="ko" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><center><div class="PrettyTextBox noprint" style="width: 90%; float: center; clear: all; padding: 5px; margin: 5px; background-color: #F9F9F9; color: #000000; border: 1px solid #AAAAAA;"><big><b><a href="/wiki/X86_%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC" title="X86 어셈블리">x86 어셈블리</a></b></big>
-</div></center>
 <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ko" dir="ltr"><h2 id="mw-toc-heading">차례</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#x86_아키텍쳐"><span class="tocnumber">1</span> <span class="toctext">x86 아키텍쳐</span></a>
