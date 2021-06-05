@@ -1,4 +1,4 @@
 # assembly
 ![a](./a.png)
-# Data structure entires
+# Microarchitectural structures entires
 ![b](./b.png)
